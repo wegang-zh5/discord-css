@@ -1,0 +1,17 @@
+
+
+@import url('https://fonts.googleapis.com/css2?family=Bakbak+One');
+:root {
+--themeColor1: #A435DCFF;
+--themeColor2: #7474E5FF;
+--customFont: 'Bakbak One';
+--homeImage: url('https://i.imgur.com/RbDfEuK.png');
+--homeImageSize: contain;
+--backgroundColor: #0d0d0d;
+--backgroundImage: url('https://i.imgur.com/PLQsnkg.gif');
+--backgroundPosition: center;
+--backgroundSize: cover;
+--backgroundRepeat: no-repeat;
+--backgroundBlur: 0px;
+--backgroundOpacity: 0.6;
+}
